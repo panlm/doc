@@ -1,5 +1,10 @@
 # readme
 
+http://wowubuntu.com/markdown/
+
+http://daringfireball.net/projects/markdown/basics
+
+http://daringfireball.net/projects/markdown/syntax
 
 ## chapter 2
 
@@ -8,8 +13,8 @@
 
 abcd
 
-		source code block
-		source code block
+	source code block
+	source code block
 
 paragram 1 : asdf dsaf af sadfadsf asfd asf dsaf a fsad fasdf adsf dsaf adf afd adsf adf asdf 
 
